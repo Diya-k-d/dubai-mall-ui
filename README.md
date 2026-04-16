@@ -1,3 +1,22 @@
+
+# Dubai Mall UI Clone
+
+A luxury retail website inspired by Dubai Mall.
+
+## Features
+- Modern UI/UX
+- Interactive chatbot
+- Smooth animations
+- Responsive design
+
+## Tech Stack
+- Next.js
+- React
+- Tailwind CSS
+
+## Live Demo
+http://localhost:3000/
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
